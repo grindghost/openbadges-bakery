@@ -1,4 +1,10 @@
-# openbadges-bakery [![Build Status](https://secure.travis-ci.org/mozilla/openbadges-bakery.png)](http://travis-ci.org/mozilla/openbadges-bakery)
+# openbadges-bakery 
+
+This is a fork of [https://github.com/mozilla/openbadges-bakery](https://github.com/mozilla/openbadges-bakery)
+
+Note that the streampng dependency reference [https://github.com/OpenWorksGroup/streampng](https://github.com/OpenWorksGroup/streampng). Please see README that tests fail. However, baking PNGs seem to work.
+
+This is an ungraceful patch to a no longer suported but necessary library for Open Badges.
 
 An OpenBadges image baking library that works with PNGs and SVGs
 
