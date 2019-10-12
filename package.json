@@ -1,6 +1,6 @@
 {
   "name": "openbadges-bakery",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Tools for baking and debaking openbadge images",
   "main": "index.js",
   "directories": {
@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mozilla/openbadges-bakery.git"
+    "url": "git://github.com/OpenWorksGroup/openbadges-bakery.git"
   },
   "keywords": [
     "openbadges"
   ],
-  "author": "Brian J. Brennan",
+  "author": "Brian J. Brennan - Updated by Kerri Lemoie @ OpenWorks Group",
   "license": "MPL 2.0"
 }
